@@ -1,0 +1,29 @@
+{
+  "name": "discord-token-login-voice",
+  "version": "1.0.0",
+  "description": "Girilen Tokenleri Sese Sokar",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ynsemretkgz/tokenses.git"
+  },
+  "keywords": [
+    "discord",
+    "token",
+    "login",
+    "voice"
+  ],
+  "author": "Yunus Emre , RelceX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ynsemretkgz/tokenses/issues"
+  },
+  "homepage": "https://github.com/Ynsemretkgz/tokenses#readme",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "ytdl-core": "^4.2.1"
+  }
+}
